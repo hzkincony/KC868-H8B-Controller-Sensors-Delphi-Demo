@@ -1,0 +1,19 @@
+0
+10.10.10.2
+4196
+
+Notes:
+
+The parameters listed are the ClientSocket component parameters:
+
+- The first parameter is the Address
+- The second parameter is the Host
+- The third parameter is the Port
+
+This demonstration program works when in the first line of this file, the Address, Host, and Port parameters are set as follows, respectively:
+
+- 10.10.10.2
+- 10.10.10.2
+- 4196
+
+If the first line in a file is zero (0 - Address) , app will run, but won't do anything.

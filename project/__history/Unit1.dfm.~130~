@@ -1,0 +1,223 @@
+object autom_matinForm: Tautom_matinForm
+  Left = 0
+  Top = 0
+  Caption = 'RELAY CONTROL'
+  ClientHeight = 387
+  ClientWidth = 771
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object SensorReadInit: TLabel
+    Left = 200
+    Top = 39
+    Width = 74
+    Height = 13
+    Caption = 'SensorReadInit'
+  end
+  object autom_btn_op: TButton
+    Left = 8
+    Top = 8
+    Width = 75
+    Height = 25
+    Caption = 'Open Port'
+    TabOrder = 0
+    OnClick = autom_btn_opClick
+  end
+  object autom_btn_init: TButton
+    Left = 96
+    Top = 8
+    Width = 75
+    Height = 25
+    Caption = 'Initialization'
+    TabOrder = 1
+    OnClick = autom_btn_initClick
+  end
+  object autom_btn_swch1: TButton
+    Left = 8
+    Top = 288
+    Width = 113
+    Height = 25
+    Caption = 'Turn ON/OFF Light 1'
+    TabOrder = 2
+    OnClick = autom_btn_swch1Click
+  end
+  object autom_btn_swch2: TButton
+    Left = 127
+    Top = 288
+    Width = 106
+    Height = 25
+    Caption = 'Turn ON/OFF Light 2'
+    TabOrder = 3
+    OnClick = autom_btn_swch2Click
+  end
+  object autom_btn_swch3: TButton
+    Left = 239
+    Top = 288
+    Width = 106
+    Height = 25
+    Caption = 'Turn ON/OFF Light 3'
+    TabOrder = 4
+    OnClick = autom_btn_swch3Click
+  end
+  object autom_btn_swch4: TButton
+    Left = 351
+    Top = 288
+    Width = 114
+    Height = 25
+    Caption = 'Turn ON/OFF Light 4'
+    TabOrder = 5
+    OnClick = autom_btn_swch4Click
+  end
+  object autom_btn_swch5: TButton
+    Left = 471
+    Top = 288
+    Width = 106
+    Height = 25
+    Caption = 'Turn ON/OFF Light 5'
+    TabOrder = 6
+    OnClick = autom_btn_swch5Click
+  end
+  object autom_btn_swch6: TButton
+    Left = 583
+    Top = 288
+    Width = 114
+    Height = 25
+    Caption = 'Turn ON/OFF Light 6'
+    TabOrder = 7
+    OnClick = autom_btn_swch6Click
+  end
+  object autom_btn_swch7: TButton
+    Left = 8
+    Top = 328
+    Width = 113
+    Height = 25
+    Caption = 'Turn ON/OFF Light 7'
+    TabOrder = 8
+    OnClick = autom_btn_swch7Click
+  end
+  object autom_btn_swch8: TButton
+    Left = 127
+    Top = 328
+    Width = 106
+    Height = 25
+    Caption = 'Turn ON/OFF Light 8'
+    TabOrder = 9
+    OnClick = autom_btn_swch8Click
+  end
+  object IPStat: TEdit
+    Left = 344
+    Top = 135
+    Width = 121
+    Height = 21
+    TabOrder = 10
+  end
+  object Memo1: TMemo
+    Left = 568
+    Top = 128
+    Width = 185
+    Height = 89
+    Lines.Strings = (
+      '')
+    TabOrder = 11
+    OnChange = Memo1Change
+  end
+  object alarm_stat_1: TEdit
+    Left = 200
+    Top = 58
+    Width = 121
+    Height = 21
+    TabOrder = 12
+    Text = '1'
+    OnChange = alarm_stat_1Change
+  end
+  object alarm_stat_2: TEdit
+    Left = 200
+    Top = 85
+    Width = 121
+    Height = 21
+    TabOrder = 13
+    Text = '1'
+    OnChange = alarm_stat_2Change
+  end
+  object alarm_stat_3: TEdit
+    Left = 200
+    Top = 112
+    Width = 121
+    Height = 21
+    TabOrder = 14
+    Text = '1'
+    OnChange = alarm_stat_3Change
+  end
+  object alarm_stat_4: TEdit
+    Left = 200
+    Top = 135
+    Width = 121
+    Height = 21
+    TabOrder = 15
+    Text = '1'
+    OnChange = alarm_stat_4Change
+  end
+  object alarm_stat_5: TEdit
+    Left = 200
+    Top = 162
+    Width = 121
+    Height = 21
+    TabOrder = 16
+    Text = '1'
+    OnChange = alarm_stat_5Change
+  end
+  object alarm_stat_6: TEdit
+    Left = 200
+    Top = 189
+    Width = 121
+    Height = 21
+    TabOrder = 17
+    Text = '1'
+    OnChange = alarm_stat_6Change
+  end
+  object alarm_stat_7: TEdit
+    Left = 200
+    Top = 216
+    Width = 121
+    Height = 21
+    TabOrder = 18
+    Text = '1'
+    OnChange = alarm_stat_7Change
+  end
+  object alarm_stat_8: TEdit
+    Left = 200
+    Top = 243
+    Width = 121
+    Height = 21
+    TabOrder = 19
+    Text = '1'
+    OnChange = alarm_stat_8Change
+  end
+  object ClientSocket: TClientSocket
+    Active = False
+    ClientType = ctNonBlocking
+    Port = 0
+    OnConnect = ClientSocketConnect
+    Left = 552
+    Top = 8
+  end
+  object TAlarmChk: TTimer
+    Interval = 500
+    OnTimer = TAlarmChkTimer
+    Left = 344
+    Top = 88
+  end
+  object TReleyOffAll: TTimer
+    Interval = 3000
+    OnTimer = TReleyOffAllTimer
+    Left = 408
+    Top = 88
+  end
+end
