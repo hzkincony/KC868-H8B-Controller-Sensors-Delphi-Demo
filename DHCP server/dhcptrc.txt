@@ -1,0 +1,506 @@
+[04/20/2022 08:14:41] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 08:14:41] Response: hand out the configured IP address (lease time = 86400)
+[04/20/2022 08:14:41] Sending a broadcast response to the client
+[04/20/2022 08:14:41] Connection 0: sending top queue packet
+[04/20/2022 08:16:44] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:16:44] recvfrom returns with error 10038
+[04/20/2022 08:16:44] DHCP Server terminated
+[04/20/2022 08:16:44] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:16:44] NetworkAdapter Initialization returns 0
+[04/20/2022 08:16:44] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 08:45:05] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:45:05] DHCP Server terminated
+[04/20/2022 08:45:05] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:45:06] NetworkAdapter Initialization returns 0
+[04/20/2022 08:45:06] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 08:45:09] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:45:09] DHCP Server terminated
+[04/20/2022 08:45:09] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:45:09] NetworkAdapter Initialization returns 0
+[04/20/2022 08:45:09] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 08:45:33] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:45:33] DHCP Server terminated
+[04/20/2022 08:45:33] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:45:33] NetworkAdapter Initialization returns 0
+[04/20/2022 08:45:33] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 08:47:36] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:47:36] DHCP Server terminated
+[04/20/2022 08:47:36] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:47:36] NetworkAdapter Initialization returns 0
+[04/20/2022 08:47:36] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 08:47:37] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:47:37] DHCP Server terminated
+[04/20/2022 08:47:37] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:47:37] NetworkAdapter Initialization returns 0
+[04/20/2022 08:47:37] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 08:47:40] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:47:40] DHCP Server terminated
+[04/20/2022 08:47:40] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:47:40] NetworkAdapter Initialization returns 0
+[04/20/2022 08:47:40] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 08:48:08] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:48:08] DHCP Server terminated
+[04/20/2022 08:48:08] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:48:08] NetworkAdapter Initialization returns 0
+[04/20/2022 08:48:08] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 08:48:17] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:48:17] DHCP Server terminated
+[04/20/2022 08:48:17] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:48:17] NetworkAdapter Initialization returns 0
+[04/20/2022 08:48:17] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 08:49:09] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:49:09] DHCP Server terminated
+[04/20/2022 08:49:09] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:49:09] NetworkAdapter Initialization returns 0
+[04/20/2022 08:49:09] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 08:50:08] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:50:08] DHCP Server terminated
+[04/20/2022 08:50:08] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:50:08] NetworkAdapter Initialization returns 0
+[04/20/2022 08:50:08] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 08:50:11] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 08:50:11] DHCP Server terminated
+[04/20/2022 08:50:11] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 08:50:11] NetworkAdapter Initialization returns 0
+[04/20/2022 08:50:11] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 09:03:39] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 09:03:39] DHCP Server terminated
+[04/20/2022 09:03:39] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 09:03:39] NetworkAdapter Initialization returns 0
+[04/20/2022 09:03:39] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 09:04:40] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 09:04:40] DHCP Server terminated
+[04/20/2022 09:04:40] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 09:04:40] NetworkAdapter Initialization returns 0
+[04/20/2022 09:04:40] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 09:17:58] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 09:17:58] DHCP Server terminated
+[04/20/2022 09:17:58] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 09:17:58] NetworkAdapter Initialization returns 0
+[04/20/2022 09:17:58] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 11:02:57] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 11:02:57] DHCP Server terminated
+[04/20/2022 11:02:57] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 11:02:57] NetworkAdapter Initialization returns 0
+[04/20/2022 11:02:57] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:19:20] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:19:20] DHCP Server terminated
+[04/20/2022 12:19:20] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:19:20] NetworkAdapter Initialization returns 0
+[04/20/2022 12:19:20] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:19:50] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:19:50] DHCP Server terminated
+[04/20/2022 12:19:50] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:19:50] NetworkAdapter Initialization returns 0
+[04/20/2022 12:19:50] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:20:12] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:20:12] DHCP Server terminated
+[04/20/2022 12:20:12] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:20:12] NetworkAdapter Initialization returns 0
+[04/20/2022 12:20:12] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:35:44] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:35:44] DHCP Server terminated
+[04/20/2022 12:35:44] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:35:44] NetworkAdapter Initialization returns 0
+[04/20/2022 12:35:44] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 12:46:33] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:46:33] DHCP Server terminated
+[04/20/2022 12:46:33] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:46:33] NetworkAdapter Initialization returns 0
+[04/20/2022 12:46:33] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:51:49] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:51:49] DHCP Server terminated
+[04/20/2022 12:51:49] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:51:49] NetworkAdapter Initialization returns 0
+[04/20/2022 12:51:49] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:52:13] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:52:13] DHCP Server terminated
+[04/20/2022 12:52:13] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:52:13] NetworkAdapter Initialization returns 0
+[04/20/2022 12:52:13] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:52:36] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:52:36] DHCP Server terminated
+[04/20/2022 12:52:36] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:52:36] NetworkAdapter Initialization returns 0
+[04/20/2022 12:52:36] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:52:40] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:52:40] DHCP Server terminated
+[04/20/2022 12:52:40] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:52:40] NetworkAdapter Initialization returns 0
+[04/20/2022 12:52:40] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:53:03] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:53:03] DHCP Server terminated
+[04/20/2022 12:53:03] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:53:03] NetworkAdapter Initialization returns 0
+[04/20/2022 12:53:03] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:53:07] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:53:07] DHCP Server terminated
+[04/20/2022 12:53:07] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:53:07] NetworkAdapter Initialization returns 0
+[04/20/2022 12:53:07] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:56:44] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 12:56:44] DHCP Server terminated
+[04/20/2022 12:56:44] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 12:56:44] NetworkAdapter Initialization returns 0
+[04/20/2022 12:56:44] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x00263960)
+[04/20/2022 12:56:44] Adapter 1 with IP address 10.10.100.150 found but not used
+[04/20/2022 12:57:00] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 12:57:00] DHCP message = DHCPDISCOVER
+[04/20/2022 12:57:00]    requested options: 1 3 6 15 58 59
+[04/20/2022 12:57:00] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 12:57:00] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 12:57:00] Response: offer the configured IP address (lease time = 86400)
+[04/20/2022 12:57:00] Sending a broadcast response to the client
+[04/20/2022 12:57:00] Connection 0: sending top queue packet
+[04/20/2022 12:57:00] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 12:57:00] DHCP message = DHCPREQUEST
+[04/20/2022 12:57:00]    requested options: 1 3 6 15 31 33 58 59
+[04/20/2022 12:57:00] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 12:57:00] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 12:57:00] Response: hand out the configured IP address (lease time = 86400)
+[04/20/2022 12:57:00] Sending a broadcast response to the client
+[04/20/2022 12:57:00] Connection 0: sending top queue packet
+[04/20/2022 13:02:18] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:02:18] recvfrom returns with error 10038
+[04/20/2022 13:02:18] DHCP Server terminated
+[04/20/2022 13:02:18] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:02:18] NetworkAdapter Initialization returns 0
+[04/20/2022 13:02:18] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 13:03:35] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:03:35] DHCP Server terminated
+[04/20/2022 13:03:35] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:03:35] NetworkAdapter Initialization returns 0
+[04/20/2022 13:03:35] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 13:03:42] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:03:42] DHCP Server terminated
+[04/20/2022 13:03:42] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:03:42] NetworkAdapter Initialization returns 0
+[04/20/2022 13:03:42] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 13:09:35] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:09:35] DHCP Server terminated
+[04/20/2022 13:09:35] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:09:35] NetworkAdapter Initialization returns 0
+[04/20/2022 13:09:35] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x00262718)
+[04/20/2022 13:09:35] Adapter 1 with IP address 10.10.100.150 found but not used
+[04/20/2022 13:09:47] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 13:09:47] DHCP message = DHCPDISCOVER
+[04/20/2022 13:09:47]    requested options: 1 3 6 15 58 59
+[04/20/2022 13:09:47] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 13:09:47] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 13:09:48] Response: offer the configured IP address (lease time = 86400)
+[04/20/2022 13:09:48] Sending a broadcast response to the client
+[04/20/2022 13:09:48] Connection 0: sending top queue packet
+[04/20/2022 13:09:48] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 13:09:48] DHCP message = DHCPREQUEST
+[04/20/2022 13:09:48]    requested options: 1 3 6 15 31 33 58 59
+[04/20/2022 13:09:48] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 13:09:48] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 13:09:48] Response: hand out the configured IP address (lease time = 86400)
+[04/20/2022 13:09:48] Sending a broadcast response to the client
+[04/20/2022 13:09:48] Connection 0: sending top queue packet
+[04/20/2022 13:15:36] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:15:36] recvfrom returns with error 10038
+[04/20/2022 13:15:36] DHCP Server terminated
+[04/20/2022 13:15:36] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:15:36] NetworkAdapter Initialization returns 0
+[04/20/2022 13:15:36] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 13:24:23] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:24:23] DHCP Server terminated
+[04/20/2022 13:24:23] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:24:23] NetworkAdapter Initialization returns 0
+[04/20/2022 13:24:23] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 13:24:46] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:24:46] DHCP Server terminated
+[04/20/2022 13:24:46] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:24:46] NetworkAdapter Initialization returns 0
+[04/20/2022 13:24:46] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 13:48:52] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:48:52] DHCP Server terminated
+[04/20/2022 13:48:52] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:48:52] NetworkAdapter Initialization returns 0
+[04/20/2022 13:48:52] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 13:52:22] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 13:52:22] DHCP Server terminated
+[04/20/2022 13:52:22] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 13:52:22] NetworkAdapter Initialization returns 0
+[04/20/2022 13:52:22] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:12:04] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:12:04] DHCP Server terminated
+[04/20/2022 14:12:04] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:12:04] NetworkAdapter Initialization returns 0
+[04/20/2022 14:12:04] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x0112e3d8)
+[04/20/2022 14:12:04] Adapter 1 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:12:17] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 14:12:17] DHCP message = DHCPDISCOVER
+[04/20/2022 14:12:17]    requested options: 1 3 6 15 58 59
+[04/20/2022 14:12:17] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 14:12:17] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 14:12:17] Response: offer the configured IP address (lease time = 86400)
+[04/20/2022 14:12:17] Sending a broadcast response to the client
+[04/20/2022 14:12:17] Connection 0: sending top queue packet
+[04/20/2022 14:12:17] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 14:12:17] DHCP message = DHCPREQUEST
+[04/20/2022 14:12:17]    requested options: 1 3 6 15 31 33 58 59
+[04/20/2022 14:12:17] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 14:12:17] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 14:12:17] Response: hand out the configured IP address (lease time = 86400)
+[04/20/2022 14:12:17] Sending a broadcast response to the client
+[04/20/2022 14:12:17] Connection 0: sending top queue packet
+[04/20/2022 14:14:42] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:14:42] recvfrom returns with error 10038
+[04/20/2022 14:14:42] DHCP Server terminated
+[04/20/2022 14:14:42] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:14:43] NetworkAdapter Initialization returns 0
+[04/20/2022 14:14:43] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x00262718)
+[04/20/2022 14:14:44] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:14:44] recvfrom returns with error 10038
+[04/20/2022 14:14:44] DHCP Server terminated
+[04/20/2022 14:14:44] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:14:44] NetworkAdapter Initialization returns 0
+[04/20/2022 14:14:44] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x00262718)
+[04/20/2022 14:14:44] Adapter 1 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:14:47] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:14:47] recvfrom returns with error 10038
+[04/20/2022 14:14:47] DHCP Server terminated
+[04/20/2022 14:14:47] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:14:47] NetworkAdapter Initialization returns 0
+[04/20/2022 14:14:47] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x00262718)
+[04/20/2022 14:14:47] Adapter 1 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:17:26] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:17:26] recvfrom returns with error 10038
+[04/20/2022 14:17:26] DHCP Server terminated
+[04/20/2022 14:17:26] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:17:27] NetworkAdapter Initialization returns 0
+[04/20/2022 14:17:27] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:18:36] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:18:36] DHCP Server terminated
+[04/20/2022 14:18:36] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:18:36] NetworkAdapter Initialization returns 0
+[04/20/2022 14:18:36] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:18:39] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:18:39] DHCP Server terminated
+[04/20/2022 14:18:39] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:18:39] NetworkAdapter Initialization returns 0
+[04/20/2022 14:18:39] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:20:33] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:20:33] DHCP Server terminated
+[04/20/2022 14:20:33] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:20:33] NetworkAdapter Initialization returns 0
+[04/20/2022 14:20:33] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x002626d8)
+[04/20/2022 14:20:33] Adapter 1 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:20:39] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:20:39] recvfrom returns with error 10038
+[04/20/2022 14:20:39] DHCP Server terminated
+[04/20/2022 14:20:39] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:20:39] NetworkAdapter Initialization returns 0
+[04/20/2022 14:20:39] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x002626d8)
+[04/20/2022 14:20:39] Adapter 1 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:20:42] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:20:42] recvfrom returns with error 10038
+[04/20/2022 14:20:42] DHCP Server terminated
+[04/20/2022 14:20:42] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:20:42] NetworkAdapter Initialization returns 0
+[04/20/2022 14:20:42] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x002626d8)
+[04/20/2022 14:20:42] Adapter 1 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:20:46] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 14:20:46] DHCP message = DHCPDISCOVER
+[04/20/2022 14:20:46]    requested options: 1 3 6 15 58 59
+[04/20/2022 14:20:46] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 14:20:46] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 14:20:46] Response: offer the configured IP address (lease time = 86400)
+[04/20/2022 14:20:46] Sending a broadcast response to the client
+[04/20/2022 14:20:46] Connection 0: sending top queue packet
+[04/20/2022 14:20:46] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 14:20:46] DHCP message = DHCPREQUEST
+[04/20/2022 14:20:46]    requested options: 1 3 6 15 31 33 58 59
+[04/20/2022 14:20:46] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 14:20:46] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 14:20:46] Response: hand out the configured IP address (lease time = 86400)
+[04/20/2022 14:20:46] Sending a broadcast response to the client
+[04/20/2022 14:20:46] Connection 0: sending top queue packet
+[04/20/2022 14:26:11] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:26:11] recvfrom returns with error 10038
+[04/20/2022 14:26:11] DHCP Server terminated
+[04/20/2022 14:26:11] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:26:11] NetworkAdapter Initialization returns 0
+[04/20/2022 14:26:11] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:27:19] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:27:19] DHCP Server terminated
+[04/20/2022 14:27:19] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:27:20] NetworkAdapter Initialization returns 0
+[04/20/2022 14:27:20] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:27:23] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:27:23] DHCP Server terminated
+[04/20/2022 14:27:23] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:27:23] NetworkAdapter Initialization returns 0
+[04/20/2022 14:27:23] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:37:07] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:37:07] DHCP Server terminated
+[04/20/2022 14:37:07] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:37:07] NetworkAdapter Initialization returns 0
+[04/20/2022 14:37:07] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:37:12] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:37:12] DHCP Server terminated
+[04/20/2022 14:37:12] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:37:12] NetworkAdapter Initialization returns 0
+[04/20/2022 14:37:12] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:37:34] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:37:34] DHCP Server terminated
+[04/20/2022 14:37:34] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:37:34] NetworkAdapter Initialization returns 0
+[04/20/2022 14:37:34] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:37:47] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:37:47] DHCP Server terminated
+[04/20/2022 14:37:47] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:37:47] NetworkAdapter Initialization returns 0
+[04/20/2022 14:37:47] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:38:05] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:38:05] DHCP Server terminated
+[04/20/2022 14:38:05] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:38:05] NetworkAdapter Initialization returns 0
+[04/20/2022 14:38:05] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:38:09] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:38:09] DHCP Server terminated
+[04/20/2022 14:38:09] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:38:09] NetworkAdapter Initialization returns 0
+[04/20/2022 14:38:09] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:38:23] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:38:23] DHCP Server terminated
+[04/20/2022 14:38:23] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:38:23] NetworkAdapter Initialization returns 0
+[04/20/2022 14:38:23] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:38:41] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:38:41] DHCP Server terminated
+[04/20/2022 14:38:41] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:38:41] NetworkAdapter Initialization returns 0
+[04/20/2022 14:38:41] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:38:45] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:38:45] DHCP Server terminated
+[04/20/2022 14:38:45] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:38:45] NetworkAdapter Initialization returns 0
+[04/20/2022 14:38:45] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:39:18] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:39:18] DHCP Server terminated
+[04/20/2022 14:39:18] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:39:18] NetworkAdapter Initialization returns 0
+[04/20/2022 14:39:18] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:39:35] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:39:35] DHCP Server terminated
+[04/20/2022 14:39:35] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:39:35] NetworkAdapter Initialization returns 0
+[04/20/2022 14:39:35] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:39:39] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:39:39] DHCP Server terminated
+[04/20/2022 14:39:39] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:39:39] NetworkAdapter Initialization returns 0
+[04/20/2022 14:39:39] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:41:42] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:41:42] DHCP Server terminated
+[04/20/2022 14:41:42] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:41:42] NetworkAdapter Initialization returns 0
+[04/20/2022 14:41:42] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 14:41:43] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:41:43] DHCP Server terminated
+[04/20/2022 14:41:43] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:41:43] NetworkAdapter Initialization returns 0
+[04/20/2022 14:41:43] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:41:46] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:41:46] DHCP Server terminated
+[04/20/2022 14:41:46] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:41:46] NetworkAdapter Initialization returns 0
+[04/20/2022 14:41:46] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:42:20] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:42:20] DHCP Server terminated
+[04/20/2022 14:42:20] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:42:20] NetworkAdapter Initialization returns 0
+[04/20/2022 14:42:20] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:42:23] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:42:23] DHCP Server terminated
+[04/20/2022 14:42:23] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:42:23] NetworkAdapter Initialization returns 0
+[04/20/2022 14:42:23] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 14:44:52] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:44:52] DHCP Server terminated
+[04/20/2022 14:44:52] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:44:52] NetworkAdapter Initialization returns 0
+[04/20/2022 14:44:52] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 14:44:53] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:44:53] DHCP Server terminated
+[04/20/2022 14:44:53] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:44:53] NetworkAdapter Initialization returns 0
+[04/20/2022 14:44:53] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:44:56] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:44:56] DHCP Server terminated
+[04/20/2022 14:44:56] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:44:56] NetworkAdapter Initialization returns 0
+[04/20/2022 14:44:56] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 14:47:59] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 14:47:59] DHCP Server terminated
+[04/20/2022 14:47:59] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 14:47:59] NetworkAdapter Initialization returns 0
+[04/20/2022 14:47:59] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 17:21:39] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 17:21:40] NetworkAdapter Initialization returns 0
+[04/20/2022 17:21:40] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 17:21:41] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 17:21:41] DHCP Server terminated
+[04/20/2022 17:21:41] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 17:21:41] NetworkAdapter Initialization returns 0
+[04/20/2022 17:21:41] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 17:21:46] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 17:21:46] DHCP Server terminated
+[04/20/2022 17:21:46] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 17:21:47] NetworkAdapter Initialization returns 0
+[04/20/2022 17:21:47] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 17:28:07] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 17:28:07] DHCP Server terminated
+[04/20/2022 17:28:07] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 17:28:07] NetworkAdapter Initialization returns 0
+[04/20/2022 17:28:07] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 17:29:40] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 17:29:40] DHCP Server terminated
+[04/20/2022 17:29:40] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 17:29:40] NetworkAdapter Initialization returns 0
+[04/20/2022 17:29:40] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 17:29:43] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 17:29:43] DHCP Server terminated
+[04/20/2022 17:29:43] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 17:29:43] NetworkAdapter Initialization returns 0
+[04/20/2022 17:29:43] Adapter 0 with IP address 10.10.100.150 found but not used
+[04/20/2022 18:23:30] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 18:23:30] DHCP Server terminated
+[04/20/2022 18:23:30] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 18:23:30] NetworkAdapter Initialization returns 0
+[04/20/2022 18:23:30] Adapter 0 with IP address 127.0.0.1 found but not used
+[04/20/2022 18:23:34] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 18:23:34] DHCP Server terminated
+[04/20/2022 18:23:34] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 18:23:34] NetworkAdapter Initialization returns 0
+[04/20/2022 18:23:34] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 18:23:37] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 18:23:37] DHCP Server terminated
+[04/20/2022 18:23:37] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 18:23:37] NetworkAdapter Initialization returns 0
+[04/20/2022 18:23:37] Adapter 0 with IP address 192.168.1.21 found but not used
+[04/20/2022 18:23:57] DHCP Server is terminating (ignore error messages that follow)
+[04/20/2022 18:23:57] DHCP Server terminated
+[04/20/2022 18:23:57] DHCP Server V2.5.2.3 started as Service
+[04/20/2022 18:23:57] NetworkAdapter Initialization returns 0
+[04/20/2022 18:23:57] Adapter 0 with IP address 10.10.10.1 found (pAdap=0x007b2938)
+[04/20/2022 18:23:57] Adapter 1 with IP address 192.168.1.21 found but not used
+[04/20/2022 18:24:12] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 18:24:12] DHCP message = DHCPDISCOVER
+[04/20/2022 18:24:12]    requested options: 1 3 6 15 58 59
+[04/20/2022 18:24:12] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 18:24:12] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 18:24:12] Response: offer the configured IP address (lease time = 86400)
+[04/20/2022 18:24:12] Sending a broadcast response to the client
+[04/20/2022 18:24:12] Connection 0: sending top queue packet
+[04/20/2022 18:24:12] Adapter 0 has recognized an incoming DHCP request
+[04/20/2022 18:24:12] DHCP message = DHCPREQUEST
+[04/20/2022 18:24:12]    requested options: 1 3 6 15 31 33 58 59
+[04/20/2022 18:24:12] Lookup client data for physical address "00-33-30-34-05-2A" / client_id "00-33-30-34-05-2A"
+[04/20/2022 18:24:12] Client 00-33-30-34-05-2A is configured with the IP address 10.10.10.2
+[04/20/2022 18:24:13] Response: hand out the configured IP address (lease time = 86400)
+[04/20/2022 18:24:13] Sending a broadcast response to the client
+[04/20/2022 18:24:13] Connection 0: sending top queue packet

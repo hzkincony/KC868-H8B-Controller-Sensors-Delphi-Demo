@@ -1,0 +1,112 @@
+Ethernet Setting
+Firmware version:
+H8B_V4.34
+
+MAC:
+00:33:30:34:05:2A
+
+UID:
+67c352c1e175daf4c762d20f
+
+IP:
+10.10.10.2
+
+Port:
+4196
+
+Subnet mask:
+255.255.255.0
+
+Gateway:
+0.0.0.0
+
+Work Mode:
+TCP Server
+
+IP Mode:
+DHCP
+
+Server IP:
+114.55.89.143
+
+Server Port:
+5555
+
+Mqtt Broker Username:
+Note: <10 letters (not use "SPACE" & case sensitive)
+
+Mqtt Broker Password:
+Note: <10 letters (not use "SPACE" & case sensitive)
+
+Wifi Setting
+Wifi AP Mode:
+APSTA
+ Note: select "STA" connect to router
+
+Router Name(SSID):
+HF-LPT230-AP
+ Note: <32 letters (not use "SPACE" & case sensitive)
+
+Encryption Method:
+OPEN
+ Note: Most use "WPAPSK/WPA2PSK"
+
+Encryption Algorithm:
+NONE
+ Note: Most use "AES"
+
+Password:
+ Note: <32 letters (not use "SPACE" & case sensitive)
+
+Wifi MAC:
+34:EA:E7:E5:80:3C
+
+Wifi IP Mode:
+Static
+
+Wifi IP:
+10.10.100.254
+
+Wifi Subnet mask:
+255.255.255.0
+
+Wifi Gateway:
+10.10.100.254
+
+Wifi Work Mode:
+TCP Server
+
+Wifi Server IP:
+114.55.89.143
+
+Wifi Server Port:
+5555
+
+Mqtt Broker Username:
+Note: <10 letters (not use "SPACE" & case sensitive)
+
+Mqtt Broker Password:
+Note: <10 letters (not use "SPACE" & case sensitive)
+
+Password Setting
+Login Password:
+admin
+ Note: <10 letters (not use "SPACE" & case sensitive)
+
+Post Password:
+admin
+ Note: <10 letters (not use "SPACE" & case sensitive)
+
+Relay Recovery:
+No
+ Note:Yes (Recovery state before power off) or No (All off When power on)
+
+Relay Setting
+Relay01~08 Momentary:  relay01 relay02 relay03 relay04 relay05 relay06 relay07 relay08
+
+Momentary Time:
+1
+ Note: Second (1~10000)
+
+
+© KinCony Smart
