@@ -1,6 +1,10 @@
 # Smart Relay Controller KC868-H8B ON/OFF Actions with Sensors - Delphi Demonstration
 This is a demonstration of ON/OFF actions of a Smart Relay Controller KC868-H8B, with and without sensors, developed in Delphi.
 
+## Application of this demo program
+You can find a video demonstration of the software application for billiard clubs [here](https://www.youtube.com/watch?v=uo0OWrl__sA&t=1s) ,
+which uses this demo program. The project from the video is developed by [Nemanja Grubor](https://github.com/nemanjang) .
+
 ## Configuration
 To run this demo program, you need to follow these steps:
 
