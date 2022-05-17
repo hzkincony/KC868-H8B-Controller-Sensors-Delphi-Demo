@@ -3,7 +3,7 @@ This is a demonstration of ON/OFF actions of a Smart Relay Controller KC868-H8B,
 
 ## Application of this demo program
 You can find a video demonstration of the software application for billiard clubs [here](https://www.youtube.com/watch?v=uo0OWrl__sA&t=1s) ,
-which uses this demo program. The project from the video is developed by [Nemanja Grubor](https://github.com/nemanjang) .
+which uses this demo program. These projects (demo program and the project from the video) are developed by [Nemanja Grubor](https://github.com/nemanjang) .
 
 ## Configuration
 To run this demo program, you need to follow these steps:
