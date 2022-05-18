@@ -17,7 +17,7 @@ These configurations, with additional instructions, are in the folder named `DHC
 2. Connect a relay device with a computer in `LAN (Ethernet)` mode.
 
 3. Configure the `config.txt` file where the `.exe` file is.<br>
-Note that in my case, we have the following parameters:
+Note that in this case, we have the following parameters:
 ```
 10.10.10.2 (Address)
 10.10.10.2 (Host)
