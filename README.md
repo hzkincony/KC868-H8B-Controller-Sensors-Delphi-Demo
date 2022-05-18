@@ -8,13 +8,13 @@ which uses this demo program. These projects (demo program and the project from 
 ## Configuration
 To run this demo program, you need to follow these steps:
 
-1. <p>The IP address of the LAN is assigned using the DHCP server. Server installation instructions are within this project.<br> 
+1. <p>The IP address of the LAN (Ethernet) is assigned using the DHCP server. Server installation instructions are within this project.<br> 
 Setting up the `KC868-H8B` is also within the project. When setting up the `KC868-H8B`, the device must be configured as a `TCP/IP` server.
 </p>
 
 These configurations, with additional instructions, are in the folder named `DHCP server`.
 
-2. Connect a relay device with a computer in `LAN` mode.
+2. Connect a relay device with a computer in `LAN (Ethernet)` mode.
 
 3. Configure the `config.txt` file where the `.exe` file is.<br>
 Note that in my case, we have the following parameters:
